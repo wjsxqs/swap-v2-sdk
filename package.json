@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "",
+  "repository": "https://github.com/wjsxqs/swap-v2-sdk",
   "keywords": [
     "uniswap",
     "ethereum"
